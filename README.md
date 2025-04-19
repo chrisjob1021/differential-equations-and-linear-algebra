@@ -43,6 +43,10 @@ This repository contains Python implementations of some graphical examples discu
 Strang, Gilbert. "Differential Equations and Linear Algebra." Wellesley-Cambridge Press, 2014.
 ISBN: 978-0980232790
 
+Book available at: [Amazon](https://www.amazon.com/Differential-Equations-Linear-Algebra-Gilbert/dp/0980232791)
+
+For more resources, visit [Professor Strang's website](https://math.mit.edu/~gs/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
