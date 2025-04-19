@@ -4,6 +4,8 @@ This repository contains Python implementations of some graphical examples discu
 
 ## Examples Included
 
+All examples are available in the [chaos_examples.ipynb](chaos_examples.ipynb) notebook:
+
 1. **Newton's Method with Complex Roots**
    - Demonstrates chaos in iterative root finding
    - Shows how real sequences cannot approach imaginary roots
